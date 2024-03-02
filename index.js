@@ -6,3 +6,9 @@ function includedAFeature(){
 
 
 // created a new branch
+
+function anotherUsefulFeature(){
+
+    document.write("Added another useful new feature")
+
+}
